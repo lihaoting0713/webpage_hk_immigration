@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/webpage_hk_immigration/static/css/main.9f42a4b5.css",
-    "main.js": "/webpage_hk_immigration/static/js/main.d0ad6c38.js",
+    "main.css": "/webpage_hk_immigration/static/css/main.8552e7a1.css",
+    "main.js": "/webpage_hk_immigration/static/js/main.da983e02.js",
     "static/js/787.0d7af337.chunk.js": "/webpage_hk_immigration/static/js/787.0d7af337.chunk.js",
     "index.html": "/webpage_hk_immigration/index.html",
-    "main.9f42a4b5.css.map": "/webpage_hk_immigration/static/css/main.9f42a4b5.css.map",
-    "main.d0ad6c38.js.map": "/webpage_hk_immigration/static/js/main.d0ad6c38.js.map",
+    "main.8552e7a1.css.map": "/webpage_hk_immigration/static/css/main.8552e7a1.css.map",
+    "main.da983e02.js.map": "/webpage_hk_immigration/static/js/main.da983e02.js.map",
     "787.0d7af337.chunk.js.map": "/webpage_hk_immigration/static/js/787.0d7af337.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f42a4b5.css",
-    "static/js/main.d0ad6c38.js"
+    "static/css/main.8552e7a1.css",
+    "static/js/main.da983e02.js"
   ]
 }
