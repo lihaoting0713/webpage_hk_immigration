@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/webpage_hk_immigration/static/css/main.2da69310.css",
-    "main.js": "/webpage_hk_immigration/static/js/main.7053ad6f.js",
+    "main.css": "/webpage_hk_immigration/static/css/main.9ee6a256.css",
+    "main.js": "/webpage_hk_immigration/static/js/main.e37ed725.js",
     "static/js/787.0d7af337.chunk.js": "/webpage_hk_immigration/static/js/787.0d7af337.chunk.js",
     "static/media/hongkong immigration photos.jpg": "/webpage_hk_immigration/static/media/hongkong immigration photos.ddb45a065d44c410e03e.jpg",
+    "static/media/Word Cloud.png": "/webpage_hk_immigration/static/media/Word Cloud.a53585d293c87ab05b6c.png",
     "static/media/hk immigration1.png": "/webpage_hk_immigration/static/media/hk immigration1.6ade81931d7280d9037b.png",
     "static/media/Proejct Chart 3.png": "/webpage_hk_immigration/static/media/Proejct Chart 3.4d36d107081525b97276.png",
     "static/media/hk immigration2.png": "/webpage_hk_immigration/static/media/hk immigration2.953f0de9295874ad2cb5.png",
@@ -14,12 +15,12 @@
     "static/media/Pension Pots.png": "/webpage_hk_immigration/static/media/Pension Pots.b56610b49e96a0d872f1.png",
     "static/media/Checking Out.png": "/webpage_hk_immigration/static/media/Checking Out.57bc7be4ca726140727a.png",
     "index.html": "/webpage_hk_immigration/index.html",
-    "main.2da69310.css.map": "/webpage_hk_immigration/static/css/main.2da69310.css.map",
-    "main.7053ad6f.js.map": "/webpage_hk_immigration/static/js/main.7053ad6f.js.map",
+    "main.9ee6a256.css.map": "/webpage_hk_immigration/static/css/main.9ee6a256.css.map",
+    "main.e37ed725.js.map": "/webpage_hk_immigration/static/js/main.e37ed725.js.map",
     "787.0d7af337.chunk.js.map": "/webpage_hk_immigration/static/js/787.0d7af337.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2da69310.css",
-    "static/js/main.7053ad6f.js"
+    "static/css/main.9ee6a256.css",
+    "static/js/main.e37ed725.js"
   ]
 }
